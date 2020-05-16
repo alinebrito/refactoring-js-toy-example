@@ -16,3 +16,11 @@ class C1{
   }
 
 }
+
+class C3{
+  
+  sum(){
+    return 100 + 200 + 300
+  }
+
+}
